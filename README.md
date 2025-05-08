@@ -69,8 +69,7 @@ The app will generate the CSV automatically if it doesn't exist.
 
 ## 📄 License
 
-MIT License
+sabry youssef
+01000059085
 
 ---
-
-Would you like me to generate a basic GitHub repo structure and push instructions as well?
